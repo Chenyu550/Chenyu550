@@ -1,4 +1,4 @@
-![screenshot](./pic/1.svg)
+![screenshot](./1.svg)
 
 <!---
 Chenyu550/Chenyu550 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
